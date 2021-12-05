@@ -1,0 +1,27 @@
+﻿################################################################################
+# Bu .gitignore dosyası Microsoft(R) Visual Studio tarafından otomatik olarak oluşturulmuştur.
+################################################################################
+/Guden.Core/DataAccess/config - Kopya
+/Guden.Core/obj/Debug/net5.0
+/Guden.Core/bin/*
+/Guden.Core/bin/Debug/net5.0/*
+/Guden.Core/obj/*
+ 
+
+
+/Guden.Business/bin/*
+/Guden.Business/obj/*
+
+/Guden.DataAccess/obj/*
+/Guden.DataAccess/bin/*
+
+
+/Guden.Entities/obj/*
+/Guden.Entities/bin/*
+
+/Guden.Api/obj/Debug/net5.0
+
+/Guden.Api/bin/*
+/Guden.Api/obj
+
+/.vs/*
